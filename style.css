@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Main content section */
+
+.main-content-section {
+    padding: 100px 90px;
+}
+/* About me section */
+
+.about-me-section {
+    margin-bottom: 40px;  
+}
+
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin-bottom: 25px;
+}
+
+.about-me-description {
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;    
+}
+
+.skills-general-section {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 25px;
+    color: black;
+    margin-bottom: 20px;
+}
+.tech-skills-section {
+    margin: 50px 0 0 40px;
+
+ }
+
+.soft-skills-section{
+    margin: 40px 0 0 40px;
